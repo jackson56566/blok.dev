@@ -1,6 +1,5 @@
 {
   "redirects": [
-    },
     {
       "source": "/test.html",
       "destination": "file:///C:/Users/janda/OneDrive/Desktop/test.html"
